@@ -1,4 +1,1 @@
-# MAXDRILL Website V6
-
-Decision Intelligence corporate repositioning. 
-
+# MAXDRILL Website Release V6.1
