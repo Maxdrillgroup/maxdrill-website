@@ -1,0 +1,8 @@
+1. Extract this ZIP.
+2. Open the `website` folder.
+3. Copy everything inside `website`.
+4. Paste into your local GitHub repository `maxdrill-website`.
+5. Replace existing files.
+6. GitHub Desktop: Commit message `Launch MAXDRILL V6.1 corporate homepage`.
+7. Click Commit to main, then Push origin.
+8. Wait for Cloudflare and refresh maxdrilltech.com with Ctrl+F5.
