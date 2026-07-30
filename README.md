@@ -1,10 +1,12 @@
-# MAXDRILL Website Release V6.2
+# MAXDRILL V8.0 Commercial Platform
 
-Includes the V6.1 corporate website plus:
-- animated market ribbon
-- Markets Today dashboard
-- market status
-- daily movers
-- secure API adapter architecture
+Static front-end release with:
+- store
+- checkout interface
+- customer portal
+- licences
+- downloads
+- orders
+- support
 
-Default state: clearly labelled demo feed.
+Production payments, authentication and licences are not connected yet.
