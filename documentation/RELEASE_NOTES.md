@@ -1,11 +1,33 @@
-# MAXDRILL RELEASE V6.1
+# MAXDRILL BUILD 001 — PUBLIC CORPORATE MASK
 
-Production-ready corporate homepage.
+## Purpose
+Convert the existing public website into a polished corporate pre-launch presence while masking unfinished commercial functions.
 
-Changes:
-- New Decision Intelligence positioning
-- New hero: Engineering Better Financial Decisions
-- Academy, Research, AI and Behavioural Science integrated
-- Trading Technologies repositioned as a specialised division
-- contact@maxdrilltech.com and support@maxdrilltech.com added
-- MAMBA references removed
+## Publicly visible
+- Homepage
+- Decision Intelligence
+- Research
+- Academy overview
+- Company
+- Responsibility
+- Contact
+- Legal pages
+- Market intelligence presentation
+
+## Masked
+- Store
+- Checkout
+- Login and registration
+- Client portal
+- Licences
+- Downloads
+- Orders
+- Support account area
+
+## Search protection
+- Internal routes marked `noindex`
+- Internal routes blocked in `robots.txt`
+- Public sitemap created
+
+## Important
+This release does not delete the future platform concept. It only prevents unfinished commercial areas from being presented publicly.

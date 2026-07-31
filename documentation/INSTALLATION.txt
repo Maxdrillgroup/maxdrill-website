@@ -1,8 +1,22 @@
-1. Extract this ZIP.
+MAXDRILL V8.0 INSTALLATION
+
+1. Extract the ZIP.
 2. Open the `website` folder.
-3. Copy everything inside `website`.
-4. Paste into your local GitHub repository `maxdrill-website`.
-5. Replace existing files.
-6. GitHub Desktop: Commit message `Launch MAXDRILL V6.1 corporate homepage`.
-7. Click Commit to main, then Push origin.
-8. Wait for Cloudflare and refresh maxdrilltech.com with Ctrl+F5.
+3. Copy all contents into the root of your local `maxdrill-website` repository.
+4. Replace existing files.
+5. In GitHub Desktop commit:
+   Launch MAXDRILL V8.0 Commercial Platform
+6. Click Push origin.
+7. Wait for Cloudflare Pages deployment.
+8. Refresh maxdrilltech.com with Ctrl+F5.
+
+TEST PATHS:
+- /store/
+- /auth/login/
+- /checkout/
+- /portal/dashboard/
+- /portal/licenses/
+- /portal/downloads/
+
+IMPORTANT:
+V8.0 is a commercial front-end prototype. Do not accept real payments until Stripe and a secure backend are connected.

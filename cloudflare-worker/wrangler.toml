@@ -1,0 +1,6 @@
+name = "maxdrill-market-api"
+main = "src/index.js"
+compatibility_date = "2026-07-01"
+
+[vars]
+PROVIDER_URL = ""

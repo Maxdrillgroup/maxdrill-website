@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /store/
+Disallow: /portal/
+Disallow: /checkout/
+Disallow: /auth/
+Allow: /
+Sitemap: https://maxdrilltech.com/sitemap.xml
