@@ -1,7 +1,6 @@
 {
   "project": "MAXDRILL GROUP",
-  "build": "001",
-  "release": "Public Corporate Mask",
-  "public_status": "pre-launch corporate website",
-  "commercial_modules": "masked"
+  "build": "001B",
+  "release": "Public Corporate Version Fix",
+  "cache_version": "8.2.1"
 }

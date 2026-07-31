@@ -1,33 +1,9 @@
-# MAXDRILL BUILD 001 — PUBLIC CORPORATE MASK
+# MAXDRILL BUILD 001B — PUBLIC VERSION FIX
 
-## Purpose
-Convert the existing public website into a polished corporate pre-launch presence while masking unfinished commercial functions.
+This correction:
+- removes all remaining V8.1A labels from every HTML page
+- changes all asset cache versions to 8.2.1
+- forces Cloudflare and browsers to revalidate files
+- adds a temporary `BUILD 001B` marker at the bottom-right of the homepage
 
-## Publicly visible
-- Homepage
-- Decision Intelligence
-- Research
-- Academy overview
-- Company
-- Responsibility
-- Contact
-- Legal pages
-- Market intelligence presentation
-
-## Masked
-- Store
-- Checkout
-- Login and registration
-- Client portal
-- Licences
-- Downloads
-- Orders
-- Support account area
-
-## Search protection
-- Internal routes marked `noindex`
-- Internal routes blocked in `robots.txt`
-- Public sitemap created
-
-## Important
-This release does not delete the future platform concept. It only prevents unfinished commercial areas from being presented publicly.
+When `BUILD 001B` is visible, the correct deployment is live.
